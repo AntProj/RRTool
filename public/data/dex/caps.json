@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "name": "Brock",
+    "normal": 15,
+    "hardcore": 16
+  },
+  {
+    "id": 1,
+    "name": "Archer-1",
+    "normal": 22,
+    "hardcore": 23
+  },
+  {
+    "id": 2,
+    "name": "Misty",
+    "normal": 27,
+    "hardcore": 28
+  },
+  {
+    "id": 3,
+    "name": "Surge",
+    "normal": 34,
+    "hardcore": 36
+  },
+  {
+    "id": 4,
+    "name": "Erika",
+    "normal": 44,
+    "hardcore": 44
+  },
+  {
+    "id": 5,
+    "name": "Giovanni-1",
+    "normal": 47,
+    "hardcore": 47
+  },
+  {
+    "id": 6,
+    "name": "Archer-2",
+    "normal": 56,
+    "hardcore": 56
+  },
+  {
+    "id": 7,
+    "name": "Giovanni-2",
+    "normal": 57,
+    "hardcore": 57
+  },
+  {
+    "id": 8,
+    "name": "Sabrina",
+    "normal": 59,
+    "hardcore": 59
+  },
+  {
+    "id": 9,
+    "name": "Koga",
+    "normal": 68,
+    "hardcore": 68
+  },
+  {
+    "id": 10,
+    "name": "May",
+    "normal": 73,
+    "hardcore": 73
+  },
+  {
+    "id": 11,
+    "name": "Blaine",
+    "normal": 76,
+    "hardcore": 76
+  },
+  {
+    "id": 12,
+    "name": "Archer-3",
+    "normal": 79,
+    "hardcore": 79
+  },
+  {
+    "id": 13,
+    "name": "Giovanni-3",
+    "normal": 80,
+    "hardcore": 80
+  },
+  {
+    "id": 14,
+    "name": "Clair",
+    "normal": 81,
+    "hardcore": 81
+  },
+  {
+    "id": 15,
+    "name": "Brendan",
+    "normal": 82,
+    "hardcore": 82
+  },
+  {
+    "id": 16,
+    "name": "Elite-4",
+    "normal": 85,
+    "hardcore": 85
+  },
+  {
+    "id": 17,
+    "name": "Post-Game",
+    "normal": 100,
+    "hardcore": 100
+  }
+]
